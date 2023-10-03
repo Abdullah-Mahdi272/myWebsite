@@ -1,0 +1,27 @@
+select {
+    position: absolute;
+    font-size: x-large;
+    color: #001524;
+    background-color:#FDE5D4;    
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+h1{
+    color: #001524;
+}
+
+body{
+    background-color: #445D48;
+}
+.column {
+    float: left;
+}
+
+.left {
+    width: 25%;
+}
+
+.middle {
+    width: 40%;
+}
